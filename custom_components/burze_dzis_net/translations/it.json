@@ -20,7 +20,7 @@
 }
 },
 "radius": {
-"description": "Scegli un raggio (in chilometri) per i rilevamenti delle tempeste.",
+"description": "Scegli un raggio (in KM) per i rilevamenti delle tempeste.",
 "data": {
 "radius": "Raggio"
 }
